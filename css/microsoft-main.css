@@ -35,7 +35,7 @@ body {
 }
 
 .ms-navbar-ttl {
-    display: inline-block;
+    float: right;
     font-size: 28px;
     padding-top: 18px;
     text-shadow: 0px 0px 0px;
